@@ -1,0 +1,80 @@
+body{
+	font-size:16px;
+	color: #544179;
+	background-color: cyan;
+	font-family: sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;}
+/*header start*/
+.wrapper {
+	overflow: hidden;
+	margin: 0 auto;
+	width: 90%;
+/*	background-color: #121b2a;*/
+}
+
+.menu ul{
+}
+.menu ul li{
+list-style: none;
+	float: left;
+
+}
+.menu ul li a{
+	text-decoration: none;
+    padding: 4px 31px 0 63px;
+	color: black; 
+	display: inline-block;  
+}
+ 
+
+/*header end*/
+/*about start*/
+#photo{
+    width: 200px;
+    margin-top: 76px;
+
+}
+/*about end*/
+
+
+/*project start*/
+.service {
+}
+
+.wrapper {
+}
+
+.p_wrapper {
+}
+h1{
+	
+}
+.p_single {
+	width: 26%;
+	padding: 60px 2.1%;
+	float: left;
+	margin-right: 2.2%;
+}
+
+.s_h2{
+	margin: 15px 0;
+    color: #0F2656;
+     font-size: 20px;
+}
+.s_text{
+      font-size: 18px;
+       line-height: 25px;
+       color: #0F2656
+      margin:0;
+}
+/*project end*/
+#main-footer{
+	border: 1px solid black;
+	background: cyan;
+	color:#fff;
+	text-align: center;
+	padding:20px;
+	margin-top:40px;
+}
